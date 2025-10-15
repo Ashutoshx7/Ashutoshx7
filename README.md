@@ -1,4 +1,6 @@
 Engineer/Artist
+I love building and breaking stuff
+AI is something that excites me nowdays
 
 <!--
 **Ashutoshx7/Ashutoshx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
