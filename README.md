@@ -1,5 +1,5 @@
-Engineer/Artist
-I love building and breaking stuff
+Engineer/Artist,
+I love building and breaking stuff,
 AI is something that excites me nowdays
 
 <!--
