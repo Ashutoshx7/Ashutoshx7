@@ -1,7 +1,7 @@
 Engineer/Artist,
 I love building and breaking stuff,
 - AI is something that excites me nowdays.
-- Believe in putting my code where my mouth is — actions speak louder than words, especially in code 💻
+- Believe in putting my code where my mouth is cause actions speak louder than words
 
 implementation of the paper attention is all you need - https://github.com/Ashutoshx7/Attention-is-all-you-need-paper-implmentation-
 
