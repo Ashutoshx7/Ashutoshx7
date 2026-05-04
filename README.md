@@ -1,25 +1,8 @@
-Engineer/Artist,
-I love building and breaking stuff,
-- AI is something that excites me nowdays.
-- Believe in putting my code where my mouth is cause actions speak louder than words
+Engineer / Artist. I love building, breaking, and shipping things.
 
-implementation of the paper attention is all you need - https://github.com/Ashutoshx7/Attention-is-all-you-need-paper-implmentation-
+- AI, open source, and developer tools excite me.
+- I believe actions speak louder than words, so I put my code where my mouth is.
+- Currently building **Draco**, **VengeanceUI**, and experimental AI tools.
 
-
-
-
-
-<!--
-**Ashutoshx7/Ashutoshx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Implemented **Attention Is All You Need** from scratch:  
+https://github.com/Ashutoshx7/Attention-is-all-you-need-paper-implementation-
