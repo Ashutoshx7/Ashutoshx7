@@ -18,6 +18,7 @@
 * **GSoC’26 @ [SugarLabs](https://github.com/sugarlabs) / [Sugar](https://github.com/sugarlabs/sugar)** · Sugar Activity on Demand
 * **LFX’26 @ [Caracal](https://github.com/Garudex-Labs/caracal)** · pre-execution authority for AI agents
 * **C4GT’25 @ [Beckn](https://github.com/beckn)** · AI voice generation and zero-shot voice cloning platform
-* **GSoC’25 · LeetCode Knight · [100+ merged OSS PRs](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)**
+* **GSoC’25 · LeetCode Knight**
+* **[100+ merged OSS PRs](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across open-source projects
 
 Currently building **VengeanceUI v2**, **Pulsar**, **DracoBrowser**, and AI tooling for SugarLabs.
