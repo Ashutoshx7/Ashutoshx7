@@ -22,4 +22,4 @@
 * **LeetCode Knight**
 * **[100+ merged OSS PRs](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across open-source projects
 
-Currently working on **Pulsar**, **DracoBrowser**, **SugarLabs AI tooling**, and **Caracal**.
+Currently working on **Pulsar**, **DracoBrowser**, **GSoC’26 @ SugarLabs**, and **LFX’26 @ Caracal**.
