@@ -13,12 +13,13 @@
 </table>
 
 * Building AI-native devtools, coding agents, and open-source infrastructure
-* Creator of **[VengeanceUI](https://www.vengenceui.com/)** · 40K+ visitors/month · 215K+ page views · 685+ stars
+* Creator of **[VengeanceUI](https://www.vengenceui.com/)** · v2 launched · 40K+ visitors/month · 215K+ page views · 685+ stars
 * **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)** · Winter 2026 cohort
 * **GSoC’26 @ [SugarLabs](https://github.com/sugarlabs) / [Sugar](https://github.com/sugarlabs/sugar)** · Sugar Activity on Demand
+* **GSoC’25 @ [KDE](https://github.com/kde) / GCompris** · GUI tools for teacher-created datasets
 * **LFX’26 @ [Caracal](https://github.com/Garudex-Labs/caracal)** · pre-execution authority for AI agents
 * **C4GT’25 @ [Beckn](https://github.com/beckn)** · AI voice generation and zero-shot voice cloning platform
-* **GSoC’25 · LeetCode Knight**
+* **LeetCode Knight**
 * **[100+ merged OSS PRs](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across open-source projects
 
-Currently building **VengeanceUI v2**, **Pulsar**, **DracoBrowser**, and AI tooling for SugarLabs.
+Currently working on **Pulsar**, **DracoBrowser**, **SugarLabs AI tooling**, and **Caracal**.
