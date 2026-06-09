@@ -7,6 +7,3 @@ Building AI-native developer tools, coding agents, and secure AI-agent infrastru
 - GSoC’25/’26 · C4GT’25 · Vercel OSS Program
 - LeetCode Knight · 100+ merged OSS PRs
 - Currently building Pulsar, DracoBrowser, VengeanceUI v2, and experimental AI tools
-
-Implemented **Attention Is All You Need** from scratch:  
-https://github.com/Ashutoshx7/Attention-is-all-you-need-paper-implementation-
