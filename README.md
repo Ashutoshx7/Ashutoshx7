@@ -16,9 +16,9 @@
 * Creator of **[VengeanceUI](https://www.vengenceui.com/)** · v2 launched · 40K+ visitors/month · 215K+ page views · 685+ stars
 * **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)** · Winter 2026 cohort
 * **GSoC’26 @ [SugarLabs](https://github.com/sugarlabs) / [Sugar](https://github.com/sugarlabs/sugar)** · Sugar Activity on Demand
-* *GSoC’25 @ [KDE](https://github.com/kde) / GCompris* · GUI tools for teacher-created datasets
+* **GSoC’25 @ [KDE](https://github.com/kde) / GCompris** · GUI tools for teacher-created datasets
 * **LFX’26 @ [Caracal](https://github.com/Garudex-Labs/caracal)** · pre-execution authority for AI agents
 * **C4GT’25 @ [Beckn](https://github.com/beckn)** · AI voice generation and zero-shot voice cloning platform
 * **[100+ merged OSS PRs](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across open-source projects
 
-Currently working on *Pulsar, **DracoBrowser, **GSoC’26 @ SugarLabs, and **LFX’26 @ Caracal*.
+Currently working on **Pulsar**, **DracoBrowser**, **GSoC’26 @ SugarLabs**, and **LFX’26 @ Caracal**.
