@@ -12,7 +12,8 @@
   </tr>
 </table>
 
-* Building AI-native devtools, coding agents, and open-source infrastructure
+I build **AI-native devtools, coding agents, open-source infrastructure, and creative engineering tools.**
+
 * Creator of **[VengeanceUI](https://www.vengenceui.com/)** · v2 launched · 40K+ visitors/month · 215K+ page views · 685+ stars
 * **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)** · Winter 2026 cohort
 * **Code Owner @ [SugarLabs / Music Blocks](https://github.com/sugarlabs/musicblocks)** · reviewing and maintaining core project areas
@@ -21,6 +22,5 @@
 * **LFX’26 @ [Caracal](https://github.com/Garudex-Labs/caracal)** · pre-execution authority for AI agents
 * **C4GT’25 @ [Beckn](https://github.com/beckn)** · AI voice generation and zero-shot voice cloning platform
 * **[100+ merged OSS PRs](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across open-source projects
-
 
 Currently working on **Pulsar**, **DracoBrowser**, **GSoC’26 @ SugarLabs**, and **LFX’26 @ Caracal**.
