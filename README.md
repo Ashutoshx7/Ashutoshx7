@@ -24,9 +24,7 @@ I build **AI-native devtools, coding agents, open-source infrastructure, and cre
 ▸ **[100+ merged OSS PRs](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across open-source projects<br/>
 
 Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity on Demand**, and **Caracal**.
-
 <br/>
-
 <p>
   <strong>Tech Stack ⚙️</strong>
   &nbsp;
