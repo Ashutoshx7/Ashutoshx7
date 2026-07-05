@@ -12,18 +12,18 @@
   </tr>
 </table>
 
-
-
 I build **AI-native developer tools, coding agents, open-source infrastructure, and creative engineering systems.**
 
-▸ Creator of **[VengeanceUI](https://www.vengenceui.com/)** · v2 launched · 40K+ visitors/month · 215K+ page views · 850+ GitHub stars<br/>
+▸ Creator of **[VengeanceUI](https://www.vengenceui.com/)** · animated React components for modern landing pages · v2 launched · 40K+ visitors/month · 215K+ page views · 850+ stars<br/>
 ▸ Selected for the **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)** · Winter 2026 cohort<br/>
-▸ **GSoC’26** · **[Sugar Labs](https://github.com/sugarlabs) / [Sugar](https://github.com/sugarlabs/sugar)** · building Sugar Activity on Demand<br/>
-▸ **GSoC’25** · **[KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** · built GUI tools for teacher-created datasets<br/>
-▸ **LFX’26** · **[Caracal](https://github.com/Garudex-Labs/caracal)** · working on pre-execution authority for AI agents<br/>
-▸ **C4GT’25** · **[Beckn](https://github.com/beckn)** · worked on AI voice generation and zero-shot voice cloning<br/>
+▸ **GSoC’26** · **[Sugar Labs](https://github.com/sugarlabs) / [Sugar](https://github.com/sugarlabs/sugar)** · Sugar Activity on Demand<br/>
+▸ **GSoC’25** · **[KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** · GUI tools for teacher-created datasets<br/>
+▸ **LFX’26** · **[Caracal](https://github.com/Garudex-Labs/caracal)** · pre-execution authority for AI agents<br/>
+▸ **C4GT’25** · **[Beckn](https://github.com/beckn)** · AI voice generation and zero-shot voice cloning platform<br/>
 ▸ **Code Owner** · **[Sugar Labs / Music Blocks](https://github.com/sugarlabs/musicblocks)** · reviewing and maintaining core project areas<br/>
 ▸ **[100+ merged OSS PRs](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across open-source projects<br/>
+
+Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity on Demand**, and **Caracal**.
 
 <p>
   <strong>Tech Stack ⚙️</strong>
