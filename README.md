@@ -25,6 +25,7 @@ I build **AI-native developer tools, coding agents, open-source infrastructure, 
 
 Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity on Demand**, and **Caracal**.
 
+<br/>
 
 <p>
   <strong>Tech Stack ⚙️</strong>
@@ -53,7 +54,7 @@ Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity on Demand**, a
   &nbsp;
   <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="28" height="28" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" alt="OpenAI" width="28" height="28" />
+  <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23FFFFFF" alt="OpenAI" width="28" height="28" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" width="28" height="28" />
   &nbsp;
