@@ -25,7 +25,6 @@ I build **AI-native developer tools, coding agents, open-source infrastructure, 
 
 Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity on Demand**, and **Caracal**.
 
-<br/>
 
 <p>
   <strong>Tech Stack ⚙️</strong>
