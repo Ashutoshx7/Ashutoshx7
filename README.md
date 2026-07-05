@@ -14,7 +14,7 @@
 
 I build **AI-native developer tools, coding agents, open-source infrastructure, and creative engineering systems.**
 
-▸ Creator of **[VengeanceUI](https://www.vengenceui.com/)** · animated React components for modern landing pages · v2 launched · 40K+ visitors/month · 215K+ page views · 850+ stars<br/>
+▸ Creator of **[VengeanceUI](https://www.vengenceui.com/)** · v2 launched · 40K+ visitors/month · 215K+ page views · 850+ stars<br/>
 ▸ Selected for the **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)** · Winter 2026 cohort<br/>
 ▸ **GSoC’26** · **[Sugar Labs](https://github.com/sugarlabs) / [Sugar](https://github.com/sugarlabs/sugar)** · Sugar Activity on Demand<br/>
 ▸ **GSoC’25** · **[KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** · GUI tools for teacher-created datasets<br/>
