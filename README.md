@@ -1,4 +1,3 @@
-
 <table width="100%">
   <tr>
     <td align="left">
@@ -15,18 +14,18 @@
 
 I build **AI-native developer tools, coding agents, open-source infrastructure, and creative engineering systems.**
 
-▸ Creator of **[VengeanceUI](https://www.vengenceui.com/)** · animated React component library · 40K+ monthly visitors · 215K+ page views · 850+ GitHub stars<br/>
+▸ Creator of **[VengeanceUI](https://www.vengenceui.com/)** · 40K+ monthly visitors · 215K+ page views · 850+ stars<br/>
 ▸ Selected for the **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)** · Winter 2026 cohort<br/>
-▸ **Sugar Labs Member & Code Owner** · **[Music Blocks](https://github.com/sugarlabs/musicblocks)** · maintaining core areas, reviewing contributions, and supporting contributors<br/>
-▸ **GSoC 2026** · **[Sugar Labs](https://github.com/sugarlabs) / [Sugar](https://github.com/sugarlabs/sugar)** · building **Sugar Activity on Demand**, an AI-powered system for generating educational activities<br/>
-▸ **LFX Mentorship 2026** · **[Caracal](https://github.com/Garudex-Labs/caracal)** · building pre-execution authority and policy enforcement for AI agents<br/>
-▸ **GSoC 2025** · **[KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** · built GUI tools for creating and managing educational datasets<br/>
-▸ **C4GT 2025** · **[Beckn](https://github.com/beckn)** · developed an AI voice-generation and zero-shot voice-cloning platform<br/>
-▸ **[100+ merged open-source pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across 12+ open-source organizations<br/>
+▸ **Sugar Labs Member & Code Owner** · **[Music Blocks](https://github.com/sugarlabs/musicblocks)** · maintaining core areas and reviewing contributions<br/>
+▸ **GSoC 2026** · **[Sugar Labs](https://github.com/sugarlabs) / [Sugar](https://github.com/sugarlabs/sugar)** · building AI-generated learning activities<br/>
+▸ **LFX 2026** · **[Caracal](https://github.com/Garudex-Labs/caracal)** · pre-execution policy enforcement for AI agents<br/>
+▸ **GSoC 2025** · **[KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** · teacher-focused dataset tooling<br/>
+▸ **C4GT 2025** · **[Beckn](https://github.com/beckn)** · AI voice generation and zero-shot voice cloning<br/>
+▸ **[100+ merged OSS pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across 12+ organizations<br/>
 
 Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity on Demand**, and **Caracal**.
 
-
+<br/>
 
 <p>
   <strong>Tech Stack ⚙️</strong>
@@ -67,4 +66,3 @@ Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity on Demand**, a
   &nbsp;
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" title="TensorFlow" width="28" height="28" />
 </p>
-
