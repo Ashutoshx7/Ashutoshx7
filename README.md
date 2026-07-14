@@ -1,3 +1,4 @@
+
 <table width="100%">
   <tr>
     <td align="left">
@@ -25,44 +26,26 @@ I build **AI-native developer tools, coding agents, open-source infrastructure, 
 
 Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity on Demand**, and **Caracal**.
 
-
-
 <p>
   <strong>Tech Stack ⚙️</strong>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" title="C++" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" title="Next.js" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" title="FastAPI" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/redis/FF4438" alt="Redis" title="Redis" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" title="Google Cloud" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" title="Linux" width="26" height="26" />
-  &nbsp;
-  <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23FFFFFF" alt="OpenAI" title="OpenAI" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" title="Gemini" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" title="Claude" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/2B6F4E" alt="LangChain" title="LangChain" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" title="Hugging Face" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" title="PyTorch" width="26" height="26" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" title="TensorFlow" width="26" height="26" />
+
+  <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-161B22?style=flat&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google_Cloud-161B22?style=flat&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/OpenAI-161B22?style=flat&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
+  <img src="https://img.shields.io/badge/LangChain-161B22?style=flat&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/PyTorch-161B22?style=flat&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
 </p>
