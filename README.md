@@ -21,7 +21,6 @@ I build **AI-native developer tools, coding agents, open-source infrastructure, 
 ▸ **LFX Mentorship 2026** · **[Caracal](https://github.com/Garudex-Labs/caracal)** · building pre-execution authorization and policy enforcement for AI agents<br/>
 ▸ **GSoC 2025** · **[KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** · built GUI tools for creating teacher-focused datasets<br/>
 ▸ **C4GT 2025** · **[Beckn](https://github.com/beckn)** · built AI voice-generation and zero-shot voice-cloning tools<br/>
-▸ **Knight @ LeetCode** · competitive programming and algorithmic problem-solving<br/>
 ▸ **[100+ merged open-source pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across 12+ organizations<br/>
 
 Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity on Demand**, and **Caracal**.
