@@ -19,7 +19,7 @@ I build **AI-native developer tools, coding agents, open-source infrastructure, 
 ▸ Selected for the **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)** · Winter 2026 cohort<br/>
 ▸ **Sugar Labs Member & Code Owner** · **[Music Blocks](https://github.com/sugarlabs/musicblocks)** · maintaining core areas, reviewing PRs, and supporting contributors<br/>
 ▸ **GSoC 2026** · **[Sugar Labs](https://github.com/sugarlabs) / [Sugar](https://github.com/sugarlabs/sugar)** · building **Sugar Activity on Demand** for AI-generated learning activities<br/>
-▸ **LFX Mentorship 2026** · **[Caracal](https://github.com/Garudex-Labs/caracal)** · building pre-execution authorization and policy enforcement for AI agents<br/>
+▸ **LFX 2026** · **[Caracal](https://github.com/Garudex-Labs/caracal)** · building pre-execution authorization and policy enforcement for AI agents<br/>
 ▸ **GSoC 2025** · **[KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** · built GUI tools for creating teacher-focused datasets<br/>
 ▸ **C4GT 2025** · **[Beckn](https://github.com/beckn)** · built AI voice-generation and zero-shot voice-cloning tools<br/>
 ▸ **[100+ merged open-source pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across 12+ organizations<br/>
