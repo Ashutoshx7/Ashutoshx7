@@ -1,4 +1,3 @@
-
 <table width="100%">
   <tr>
     <td align="left">
@@ -16,15 +15,18 @@
 I build **AI-native developer tools, coding agents, open-source infrastructure, and creative engineering systems.**
 
 ▸ Creator of **[VengeanceUI](https://www.vengenceui.com/)** · animated React component library · 40K+ monthly visitors · 215K+ page views · 950+ stars<br/>
-▸ Selected for the **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)** · Winter 2026 cohort<br/>
 ▸ **Sugar Labs Member & Code Owner** · **[Music Blocks](https://github.com/sugarlabs/musicblocks)** · maintaining core areas, reviewing PRs, and supporting contributors<br/>
-▸ **GSoC 2026** · **[Sugar Labs](https://github.com/sugarlabs) / [Sugar](https://github.com/sugarlabs/sugar)** · building **Sugar Activity on Demand** for AI-generated learning activities<br/>
+▸ **GSoC 2026** · **[Sugar Labs](https://github.com/sugarlabs) / [Sugar](https://github.com/sugarlabs/sugar)** · building **Sugar Activity On Demand** for AI-generated learning activities<br/>
 ▸ **LFX 2026** · **[Caracal](https://github.com/Garudex-Labs/caracal)** · building pre-execution authorization and policy enforcement for AI agents<br/>
+▸ Selected for the **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)** · Winter 2026 cohort<br/>
+▸ Selected for the **Claude for Open Source Program** · received Claude Max 20x for six months to support open-source development<br/>
+▸ Selected for the **Mintlify OSS Program** · receiving Mintlify Pro support for open-source documentation<br/>
 ▸ **GSoC 2025** · **[KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** · built GUI tools for creating teacher-focused datasets<br/>
 ▸ **C4GT 2025** · **[Beckn](https://github.com/beckn)** · built AI voice-generation and zero-shot voice-cloning tools<br/>
+▸ **Anthropic Fellows Program 2026** · advanced to the first CodeSignal technical assessment stage<br/>
 ▸ **[100+ merged open-source pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across 12+ organizations<br/>
 
-Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity on Demand**, and **Caracal**.
+Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity On Demand**, and **Caracal**.
 
 <p>
   <strong>Tech Stack ⚙️</strong>
@@ -33,6 +35,7 @@ Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity on Demand**, a
   <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/C++-161B22?style=flat&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
   <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
