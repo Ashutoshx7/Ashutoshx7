@@ -18,7 +18,7 @@ I build **AI-native developer tools, coding agents, open-source infrastructure, 
 ▸ **Sugar Labs Member & Code Owner** · **[Music Blocks](https://github.com/sugarlabs/musicblocks)** · maintaining core areas, reviewing pull requests, <br/>
 ▸ **[Caracal](https://github.com/Garudex-Labs/caracal) Member & Core Contributor** · contributing to core architecture, and helping maintain the AI-agent security platform<br/>
 ▸ Selected for the **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)** · Winter 2026 cohort<br/>
-▸ Selected for the **Claude for Open Source Program** · received Claude Max 20x for six months to support open-source development <br/>
+▸ Selected for the **Claude for Open Source Program** · received Claude Max 20x for six months to support open-source<br/>
 ▸ Selected for the **Mintlify OSS Program** · receiving Mintlify Pro support for open-source documentation<br/>
 ▸ **GSoC 2026** · **[Sugar Labs](https://github.com/sugarlabs) / [Sugar](https://github.com/sugarlabs/sugar)** · building **Sugar Activity On Demand** <br/>
 ▸ **LFX 2026** · **[Caracal](https://github.com/Garudex-Labs/caracal)** · building pre-execution authorization, delegation, and policy enforcement infrastructure for AI agents<br/>
