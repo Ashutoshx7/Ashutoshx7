@@ -12,30 +12,26 @@
   </tr>
 </table>
 
-I build **AI-native developer tools, coding agents, open-source infrastructure, and creative engineering systems.**
+I build AI-native developer tools, coding agents, open-source infrastructure, and creative engineering systems.
 
-▸ Creator of **[VengeanceUI](https://www.vengenceui.com/)** · animated component library · 40K+ monthly visitors · 500K+ monthly page views · 950+ GitHub stars<br/>
-▸ **Sugar Labs Member & Code Owner** · **[Music Blocks](https://github.com/sugarlabs/musicblocks)** · maintaining core areas, reviewing pull requests, <br/>
-▸ **[Caracal](https://github.com/Garudex-Labs/caracal) Member & Core Contributor** · contributing to core architecture, and helping maintain the AI-agent security platform<br/>
-▸ Selected for the **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)** · Winter 2026 cohort<br/>
-▸ Selected for the **Claude for Open Source Program** · received Claude Max 20x for six months to support open-source<br/>
-▸ Selected for the **Mintlify OSS Program** · receiving Mintlify Pro support for open-source documentation<br/>
-▸ **GSoC 2026** · **[Sugar Labs](https://github.com/sugarlabs) / [Sugar](https://github.com/sugarlabs/sugar)** · building **Sugar Activity On Demand** <br/>
-▸ **LFX 2026** · **[Caracal](https://github.com/Garudex-Labs/caracal)** · building pre-execution authorization, delegation, and policy enforcement infrastructure for AI agents<br/>
-▸ **GSoC 2025** · **[KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** · built GUI tools for creating teacher-focused datasets<br/>
-▸ **C4GT 2025** · **[Beckn](https://github.com/beckn)** · built AI voice-generation and zero-shot voice-cloning tools<br/>
-▸ **Anthropic Fellows Program 2026** · advanced to the first CodeSignal technical assessment stage<br/>
-▸ Authored **[100+ merged open-source pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across 12+ organizations, including Sugar Labs, Joplin, KDE, kgateway, FOSSology, and FOSSASIA<br/>
+* Creator of **[VengeanceUI](https://www.vengenceui.com/)**, an animated component library with 40K+ monthly visitors, 500K+ monthly page views, and 950+ GitHub stars
+* **Sugar Labs Member and Code Owner** for **[Music Blocks](https://github.com/sugarlabs/musicblocks)**, maintaining core areas and reviewing contributions
+* **[Caracal](https://github.com/Garudex-Labs/caracal) Member and Core Contributor**, contributing to the architecture and maintenance of an AI-agent security platform
+* Selected for the **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)**, Winter 2026 cohort
+* Selected for the **Claude for Open Source Program**, receiving Claude Max 20x support for six months
+* Selected for the **Mintlify OSS Program**, receiving Mintlify Pro support for open-source documentation
+* **GSoC 2026** with **[Sugar Labs](https://github.com/sugarlabs)**, building **Sugar Activity On Demand**
+* **LFX Mentorship 2026** with **[Caracal](https://github.com/Garudex-Labs/caracal)**, working on authorization, delegation, and policy enforcement for AI agents
+* **GSoC 2025** with **[KDE](https://github.com/kde)** and **[GCompris](https://github.com/gcompris/GCompris-qt)**, building GUI tools for teacher-focused dataset creation
+* **C4GT 2025** with **[Beckn](https://github.com/beckn)**, building AI voice-generation and zero-shot voice-cloning tools
+* Advanced to the first CodeSignal technical assessment stage of the **Anthropic Fellows Program 2026**
+* Authored **[100+ merged open-source pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across 12+ organizations, including Sugar Labs, Joplin, KDE, kgateway, FOSSology, and FOSSASIA
 
-Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity On Demand**, and **Caracal**
-.
-                                                                                                                                                                                          ![:Ashutoshx7](https://count.getloli.com/@:Ashutoshx7)
+Currently working on **Pulsar**, **DracoBrowser**, **Sugar Activity On Demand**, and **Caracal**.
 
+### Tech Stack
 
 <p>
-  <strong>Tech Stack ⚙️</strong>
-  &nbsp;&nbsp;
-
   <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/C++-161B22?style=flat&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
@@ -55,4 +51,8 @@ Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity On Demand**, a
   <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/PyTorch-161B22?style=flat&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/@:Ashutoshx7" alt="Profile views" />
 </p>
