@@ -27,7 +27,10 @@ I build **AI-native developer tools, coding agents, open-source infrastructure, 
 ▸ **Anthropic Fellows Program 2026** · advanced to the first CodeSignal technical assessment stage<br/>
 ▸ Authored **[100+ merged open-source pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across 12+ organizations, including Sugar Labs, Joplin, KDE, kgateway, FOSSology, and FOSSASIA<br/>
 
-Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity On Demand**, and **Caracal**.
+Currently building **Pulsar**, **DracoBrowser**, **Sugar Activity On Demand**, and **Caracal**
+.
+![:Ashutoshx7](https://count.getloli.com/@:Ashutoshx7)
+
 
 <p>
   <strong>Tech Stack ⚙️</strong>
