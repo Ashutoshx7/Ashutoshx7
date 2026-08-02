@@ -14,7 +14,7 @@
 
 I build AI-native developer tools, coding agents, open-source infrastructure, and creative engineering systems.
 
-* Creator of **[VengeanceUI](https://www.vengenceui.com/)**, an animated component library with 40K+ monthly visitors, 500K+ monthly page views, and 950+ GitHub stars
+* Creator of **[VengeanceUI](https://www.vengenceui.com/)**, an animated component library with 40K+ monthly visitors, 500K+ monthly page views, and 1000+ GitHub stars
 * **Sugar Labs Member and Code Owner** for **[Music Blocks](https://github.com/sugarlabs/musicblocks)**, maintaining core areas and reviewing contributions
 * **[Caracal](https://github.com/Garudex-Labs/caracal) Member and Core Contributor**, contributing to the architecture and maintenance of an AI-agent security platform
 * Selected for the **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)**, Winter 2026 cohort
