@@ -24,7 +24,6 @@ I build AI-native developer tools, coding agents, open-source infrastructure, an
 * **LFX Mentorship 2026** with **[Caracal](https://github.com/Garudex-Labs/caracal)**, working on authorization, delegation, and policy enforcement for AI agents
 * **GSoC 2025** with **[KDE](https://github.com/kde)** and **[GCompris](https://github.com/gcompris/GCompris-qt)**, building GUI tools for teacher-focused dataset creation
 * **C4GT 2025** with **[Beckn](https://github.com/beckn)**, building AI voice-generation and zero-shot voice-cloning tools
-* Advanced to the first CodeSignal technical assessment stage of the **Anthropic Fellows Program 2026**
 * Authored **[100+ merged open-source pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across 12+ organizations, including Sugar Labs, Joplin, KDE, kgateway, FOSSology, and FOSSASIA
 
 Currently working on **Pulsar**, **DracoBrowser**, **Sugar Activity On Demand**, and **Caracal**.
