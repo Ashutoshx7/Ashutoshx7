@@ -26,7 +26,7 @@ I build AI-native developer tools, coding agents, open-source infrastructure, an
 * **C4GT 2025** with **[Beckn](https://github.com/beckn)**, building AI voice-generation and zero-shot voice-cloning tools
 * Authored **[100+ merged open-source pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across 12+ organizations, including Sugar Labs, Joplin, KDE, kgateway, FOSSology, and FOSSASIA
 
-Currently working on **Pulsar**, **DracoBrowser**, **Sugar Activity On Demand**, and **Caracal**.
+If you want to learn you need doing, and if you want to learn more you need more doing — Walter Bender
 
 ### Tech Stack
 
