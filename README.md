@@ -12,20 +12,27 @@
   </tr>
 </table>
 
-I build AI-native developer tools, coding agents, open-source infrastructure, and creative engineering systems.
+I build **AI-native developer tools, agentic systems, open-source infrastructure, and creative engineering products.**
 
-* Creator of **[VengeanceUI](https://www.vengenceui.com/)**, an animated component library with 40K+ monthly visitors, 500K+ monthly page views, and 1000+ GitHub stars
-* **Sugar Labs Member and Code Owner** for **[Music Blocks](https://github.com/sugarlabs/musicblocks)**, maintaining core areas and reviewing contributions
-* **[Caracal](https://github.com/Garudex-Labs/caracal) Member and Core Contributor**, contributing to the architecture and maintenance of an AI-agent security platform
-* Selected for the **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)**, Winter 2026 cohort
-* Selected for the **Claude for Open Source Program**, receiving Claude Max 20x support for six months
-* Selected for the **Mintlify OSS Program**, receiving Mintlify Pro support for open-source documentation
-* **GSoC 2026** with **[Sugar Labs](https://github.com/sugarlabs)**, building **Sugar Activity On Demand**
-* **LFX Mentorship 2026** with **[Caracal](https://github.com/Garudex-Labs/caracal)**, working on authorization, delegation, and policy enforcement for AI agents
-* **GSoC 2025** with **[KDE](https://github.com/kde)** and **[GCompris](https://github.com/gcompris/GCompris-qt)**, building GUI tools for teacher-focused dataset creation
-* **C4GT 2025** with **[Beckn](https://github.com/beckn)**, building AI voice-generation and zero-shot voice-cloning tools
-* Authored **[100+ merged open-source pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across 12+ organizations, including Sugar Labs, Joplin, KDE, kgateway, FOSSology, and FOSSASIA
+### Open Source & Engineering
 
+- Creator of **[VengeanceUI](https://www.vengenceui.com/)** — an animated component library with **40K+ monthly visitors, 500K+ monthly page views, and 1,000+ GitHub stars**
+- **Sugar Labs Member & Code Owner** for **[Music Blocks](https://github.com/sugarlabs/musicblocks)** — maintaining core areas of the project and reviewing community contributions
+- **Member & Core Contributor** at **[Caracal](https://github.com/Garudex-Labs/caracal)** — contributing to the architecture and maintenance of an AI-agent security platform
+- Authored **[100+ merged open-source pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across **12+ organizations**, including Sugar Labs, Joplin, KDE, kgateway, FOSSology, and FOSSASIA
+
+### Programs & Mentorships
+
+- **GSoC 2026 · [Sugar Labs](https://github.com/sugarlabs)** — building **Sugar Activity On Demand**
+- **LFX Mentorship 2026 · [Caracal](https://github.com/Garudex-Labs/caracal)** — working on authorization, delegation, and policy enforcement for AI agents
+- **GSoC 2025 · [KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** — building GUI tools for teacher-focused dataset creation
+- **C4GT 2025 · [Beckn](https://github.com/beckn)** — building AI voice-generation and zero-shot voice-cloning tools
+
+### Open Source Support
+
+- Selected for the **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)** — Winter 2026 cohort
+- Selected for the **Claude for Open Source Program** — receiving **Claude Max 20x** support for six months
+- Selected for the **Mintlify OSS Program** — receiving **Mintlify Pro** support for open-source documentation
 
 ### Tech Stack
 
