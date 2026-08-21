@@ -1,15 +1,15 @@
 <table width="100%">
-  <tr>
-    <td align="left">
-      <strong>AI Engineer / Artist.</strong> Building, breaking, and shipping.
-    </td>
-    <td align="right">
-      <a href="https://ashutoshx7.me/">Portfolio</a> ·
-      <a href="https://linkedin.com/in/ashutoshx7">LinkedIn</a> ·
-      <a href="https://x.com/Ashutosh_7x7">X</a> ·
-      <a href="https://www.vengenceui.com/">VengeanceUI</a>
-    </td>
-  </tr>
+<tr>
+<td align="left">
+<strong>AI Engineer / Artist.</strong> Building, breaking, and shipping.
+</td>
+<td align="right">
+<a href="https://ashutoshx7.me/">Portfolio</a> ·
+<a href="https://linkedin.com/in/ashutoshx7">LinkedIn</a> ·
+<a href="https://x.com/Ashutosh_7x7">X</a> ·
+<a href="https://www.vengenceui.com/">VengeanceUI</a>
+</td>
+</tr>
 </table>
 
 I build **AI-native developer tools, agentic systems, open-source infrastructure, and creative engineering products.**
@@ -30,52 +30,59 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 
 ### Backed By
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui">
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-      </a>
-      <br/><br/>
-      <strong>Open Source Program</strong>
-      <br/>
-      <sub>Winter 2026 Cohort</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://claude.com/contact-sales/claude-for-oss">
-        <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-      </a>
-      <br/><br/>
-      <strong>Claude for Open Source</strong>
-      <br/>
-      <sub>Claude Max 20x · 6 months</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://open.sentry.io/">
-        <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
-      </a>
-      <br/><br/>
-      <strong>Sentry Open Source</strong>
-      <br/>
-      <sub>Monitoring & observability support</sub>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.mintlify.com/oss-program">
-        <img src="https://img.shields.io/badge/Mintlify-0D9373?style=for-the-badge&logo=mintlify&logoColor=white" alt="Mintlify" />
-      </a>
-      <br/><br/>
-      <strong>OSS Program</strong>
-      <br/>
-      <sub>Mintlify Pro for open source</sub>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td align="center" width="20%">
+<a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</a>
+<br><br>
+<strong>Open Source Program</strong>
+<br>
+<sub>Winter 2026 Cohort</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://claude.com/contact-sales/claude-for-oss">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+</a>
+<br><br>
+<strong>Claude for Open Source</strong>
+<br>
+<sub>Claude Max 20x · 6 months</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://open.sentry.io/">
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry">
+</a>
+<br><br>
+<strong>Sentry Open Source</strong>
+<br>
+<sub>Monitoring & observability</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://www.mintlify.com/oss-program">
+<img src="https://img.shields.io/badge/Mintlify-0D9373?style=for-the-badge&logo=mintlify&logoColor=white" alt="Mintlify">
+</a>
+<br><br>
+<strong>OSS Program</strong>
+<br>
+<sub>Documentation infrastructure</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://www.browserstack.com/open-source">
+<img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" alt="BrowserStack">
+</a>
+<br><br>
+<strong>Open Source Program</strong>
+<br>
+<sub>Cross-browser testing</sub>
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <sub>
-    Supported by developer platforms helping me build, document, monitor, and maintain open-source software.
-  </sub>
-</p>
+<sub>
+Supported by developer platforms helping me <strong>build, test, document, monitor, and maintain</strong> open-source software.
+</sub>
 
 ### Tech Stack
 
