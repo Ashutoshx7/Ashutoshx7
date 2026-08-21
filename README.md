@@ -17,22 +17,65 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 ### Open Source & Engineering
 
 - Creator of **[VengeanceUI](https://www.vengenceui.com/)** — an animated component library with **40K+ monthly visitors, 500K+ monthly page views, and 1,000+ GitHub stars**
-- **Sugar Labs Member & Code Owner** for **[Music Blocks](https://github.com/sugarlabs/musicblocks)** — maintaining core areas of the project and reviewing community contributions
-- **Member & Core Contributor** at **[Caracal](https://github.com/Garudex-Labs/caracal)** — contributing to the architecture and maintenance of an AI-agent security platform
-- Authored **[100+ merged open-source pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across **12+ organizations**, including Sugar Labs, Joplin, KDE, kgateway, FOSSology, and FOSSASIA
+- **Sugar Labs Member & Code Owner** for **[Music Blocks](https://github.com/sugarlabs/musicblocks)**, maintaining core areas and reviewing community contributions
+- **[Caracal](https://github.com/Garudex-Labs/caracal) Member & Core Contributor**, contributing to the architecture and security infrastructure of an AI-agent platform
+- Authored **[100+ merged open-source PRs](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across **12+ organizations**, including Sugar Labs, KDE, Joplin, kgateway, FOSSology, and FOSSASIA
 
-### Programs & Mentorships
+### Programs
 
 - **GSoC 2026 · [Sugar Labs](https://github.com/sugarlabs)** — building **Sugar Activity On Demand**
-- **LFX Mentorship 2026 · [Caracal](https://github.com/Garudex-Labs/caracal)** — working on authorization, delegation, and policy enforcement for AI agents
-- **GSoC 2025 · [KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** — building GUI tools for teacher-focused dataset creation
-- **C4GT 2025 · [Beckn](https://github.com/beckn)** — building AI voice-generation and zero-shot voice-cloning tools
+- **LFX Mentorship 2026 · [Caracal](https://github.com/Garudex-Labs/caracal)** — authorization, delegation, and policy enforcement for AI agents
+- **GSoC 2025 · [KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** — GUI tooling for teacher-focused dataset creation
+- **C4GT 2025 · [Beckn](https://github.com/beckn)** — AI voice generation and zero-shot voice cloning
 
-### Open Source Support
+### Backed By
 
-- Selected for the **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui)** — Winter 2026 cohort
-- Selected for the **Claude for Open Source Program** — receiving **Claude Max 20x** support for six months
-- Selected for the **Mintlify OSS Program** — receiving **Mintlify Pro** support for open-source documentation
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui">
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+      </a>
+      <br/><br/>
+      <strong>Open Source Program</strong>
+      <br/>
+      <sub>Winter 2026 Cohort</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://claude.com/contact-sales/claude-for-oss">
+        <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+      </a>
+      <br/><br/>
+      <strong>Claude for Open Source</strong>
+      <br/>
+      <sub>Claude Max 20x · 6 months</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://open.sentry.io/">
+        <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
+      </a>
+      <br/><br/>
+      <strong>Sentry Open Source</strong>
+      <br/>
+      <sub>Monitoring & observability support</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.mintlify.com/oss-program">
+        <img src="https://img.shields.io/badge/Mintlify-0D9373?style=for-the-badge&logo=mintlify&logoColor=white" alt="Mintlify" />
+      </a>
+      <br/><br/>
+      <strong>OSS Program</strong>
+      <br/>
+      <sub>Mintlify Pro for open source</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>
+    Supported by developer platforms helping me build, document, monitor, and maintain open-source software.
+  </sub>
+</p>
 
 ### Tech Stack
 
