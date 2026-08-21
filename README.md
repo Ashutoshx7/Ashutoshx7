@@ -14,15 +14,12 @@
 
 I build **AI-native developer tools, agentic systems, open-source infrastructure, and creative engineering products.**
 
-### Open Source & Engineering
+### Open Source, Engineering & Programs
 
 - Creator of **[VengeanceUI](https://www.vengenceui.com/)** — an animated component library with **40K+ monthly visitors, 500K+ monthly page views, and 1,000+ GitHub stars**
 - **Sugar Labs Member & Code Owner** for **[Music Blocks](https://github.com/sugarlabs/musicblocks)**, maintaining core areas and reviewing community contributions
 - **[Caracal](https://github.com/Garudex-Labs/caracal) Member & Core Contributor**, contributing to the architecture and security infrastructure of an AI-agent platform
 - Authored **[100+ merged open-source PRs](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across **12+ organizations**, including Sugar Labs, KDE, Joplin, kgateway, FOSSology, and FOSSASIA
-
-### Programs
-
 - **GSoC 2026 · [Sugar Labs](https://github.com/sugarlabs)** — building **Sugar Activity On Demand**
 - **LFX Mentorship 2026 · [Caracal](https://github.com/Garudex-Labs/caracal)** — authorization, delegation, and policy enforcement for AI agents
 - **GSoC 2025 · [KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** — GUI tooling for teacher-focused dataset creation
@@ -41,6 +38,7 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 <br>
 <sub>Winter 2026 Cohort</sub>
 </td>
+
 <td align="center" width="20%">
 <a href="https://claude.com/contact-sales/claude-for-oss">
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
@@ -50,6 +48,7 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 <br>
 <sub>Claude Max 20x · 6 months</sub>
 </td>
+
 <td align="center" width="20%">
 <a href="https://open.sentry.io/">
 <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry">
@@ -59,6 +58,7 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 <br>
 <sub>Monitoring & observability</sub>
 </td>
+
 <td align="center" width="20%">
 <a href="https://www.mintlify.com/oss-program">
 <img src="https://img.shields.io/badge/Mintlify-0D9373?style=for-the-badge&logo=mintlify&logoColor=white" alt="Mintlify">
@@ -68,6 +68,7 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 <br>
 <sub>Documentation infrastructure</sub>
 </td>
+
 <td align="center" width="20%">
 <a href="https://www.browserstack.com/open-source">
 <img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" alt="BrowserStack">
