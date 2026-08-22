@@ -52,11 +52,10 @@ Program
 <br />
 <sub>
 <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">
-Official Feature ↗
+Official Website ↗
 </a>
 </sub>
 </td>
-
 
 <td align="center" width="20%" valign="top">
 <a href="https://claude.com/contact-sales/claude-for-oss">
@@ -81,7 +80,6 @@ Proof ↗
 </sub>
 </td>
 
-
 <td align="center" width="20%" valign="top">
 <a href="https://open.sentry.io/">
 <img
@@ -104,7 +102,6 @@ Proof ↗
 </a>
 </sub>
 </td>
-
 
 <td align="center" width="20%" valign="top">
 <a href="https://www.mintlify.com/oss-program">
@@ -132,7 +129,6 @@ X ↗
 </a>
 </sub>
 </td>
-
 
 <td align="center" width="20%" valign="top">
 <a href="https://www.browserstack.com/open-source">
