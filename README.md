@@ -97,7 +97,7 @@ alt="Mintlify"
 />
 </a>
 <br />
-<b>Mintlify OSS Program</b> · <sub>Documentation</sub>
+<b>Mintlify OSS </b> · <sub>Documentation</sub>
 <br />
 <sub>
 <a href="https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">
