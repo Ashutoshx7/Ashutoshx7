@@ -45,7 +45,7 @@ alt="Vercel"
 <br />
 <b>Vercel OSS </b>
 <br />
- <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">Official Website ↗</a>
+ <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">Official Website </a>
 </td>
 
 <td align="center" width="20%" valign="top">
@@ -59,7 +59,7 @@ alt="Claude"
 <br />
 <b>Claude for OSS</b>
 <br />
-<a href="https://lnkd.in/p/g5SSriJz">Proof ↗</a>
+<a href="https://lnkd.in/p/g5SSriJz">Proof </a>
 </td>
 
 <td align="center" width="20%" valign="top">
@@ -73,7 +73,7 @@ alt="Sentry"
 <br />
 <b>Sentry for OSS</b>
 <br />
-<a href="https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">Proof ↗</a>
+<a href="https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">Proof </a>
 </td>
 
 <td align="center" width="20%" valign="top">
@@ -101,7 +101,7 @@ alt="BrowserStack"
 <br />
 <b>BrowserStack OSS  </b>
 <br />
-<a href="https://x.com/Ashutosh_7x7/status/2084669381951549949?s=20">Proof ↗</a>
+<a href="https://x.com/Ashutosh_7x7/status/2084669381951549949?s=20">Proof </a>
 </td>
 
 </tr>
