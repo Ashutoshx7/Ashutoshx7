@@ -43,9 +43,7 @@ alt="Vercel"
 />
 </a>
 <br />
-<b>Vercel OSS Program</b>
-<br />
-<sub>Winter '26</sub>
+<b>Vercel OSS Program</b> · <sub>Winter '26</sub>
 <br />
 <sub>
 <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">
@@ -63,9 +61,7 @@ alt="Claude"
 />
 </a>
 <br />
-<b>Claude for OSS</b>
-<br />
-<sub>Max 20x · 6mo</sub>
+<b>Claude for OSS</b> · <sub>Max 20x · 6mo</sub>
 <br />
 <sub>
 <a href="https://lnkd.in/p/g5SSriJz">
@@ -83,9 +79,7 @@ alt="Sentry"
 />
 </a>
 <br />
-<b>Sentry Open Source</b>
-<br />
-<sub>Observability</sub>
+<b>Sentry Open Source</b> · <sub>Observability</sub>
 <br />
 <sub>
 <a href="https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">
@@ -103,9 +97,7 @@ alt="Mintlify"
 />
 </a>
 <br />
-<b>Mintlify OSS Program</b>
-<br />
-<sub>Documentation</sub>
+<b>Mintlify OSS Program</b> · <sub>Documentation</sub>
 <br />
 <sub>
 <a href="https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">
@@ -127,9 +119,7 @@ alt="BrowserStack"
 />
 </a>
 <br />
-<b>BrowserStack OSS</b>
-<br />
-<sub>Testing</sub>
+<b>BrowserStack OSS</b> · <sub>Testing</sub>
 <br />
 <sub>
 <a href="https://x.com/Ashutosh_7x7/status/2084669381951549949?s=20">
