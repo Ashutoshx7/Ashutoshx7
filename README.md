@@ -31,126 +31,37 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 
 **Supported by some of the most respected developer programs in open source.**
 
-<table width="100%">
+<table width="100%" cellpadding="3" cellspacing="0">
 <tr>
 
 <td align="center" width="20%" valign="top">
-<a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">
-<img
-  src="https://img.shields.io/badge/▲%20VERCEL-000000?style=for-the-badge&logoColor=white"
-  width="155"
-  alt="Vercel"
-/>
-</a>
-<br />
-<b>
-Vercel OSS<br />
-Program
-</b>
-<br />
-<sub>Winter 2026 Cohort</sub>
-<br />
-<sub>
-<a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">
-Official Website ↗
-</a>
-</sub>
+<a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VERCEL-484F58?style=for-the-badge&logo=vercel&logoColor=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF"><img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="30" alt="Vercel"></picture></a><br>
+<b>Vercel OSS</b><br>
+<a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">Official Website</a>
 </td>
 
 <td align="center" width="20%" valign="top">
-<a href="https://claude.com/contact-sales/claude-for-oss">
-<img
-  src="https://img.shields.io/badge/AI%20CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white"
-  width="155"
-  alt="Claude"
-/>
-</a>
-<br />
-<b>
-Claude for Open<br />
-Source
-</b>
-<br />
-<sub>Claude Max 20x · 6 months</sub>
-<br />
-<sub>
-<a href="https://lnkd.in/p/g5SSriJz">
-Proof ↗
-</a>
-</sub>
+<a href="https://claude.com/contact-sales/claude-for-oss"><img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=FFF8F3" height="30" alt="Claude"></a><br>
+<b>Claude for OSS</b><br>
+<a href="https://lnkd.in/p/g5SSriJz">Proof</a>
 </td>
 
 <td align="center" width="20%" valign="top">
-<a href="https://open.sentry.io/">
-<img
-  src="https://img.shields.io/badge/SENTRY-362D59?style=for-the-badge&logo=sentry&logoColor=white"
-  width="155"
-  alt="Sentry"
-/>
-</a>
-<br />
-<b>
-Sentry Open<br />
-Source
-</b>
-<br />
-<sub>Monitoring &amp; Observability</sub>
-<br />
-<sub>
-<a href="https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">
-Proof ↗
-</a>
-</sub>
+<a href="https://open.sentry.io/"><img src="https://img.shields.io/badge/SENTRY-362D59?style=for-the-badge&logo=sentry&logoColor=FFFFFF" height="30" alt="Sentry"></a><br>
+<b>Sentry for OSS</b><br>
+<a href="https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">Proof</a>
 </td>
 
 <td align="center" width="20%" valign="top">
-<a href="https://www.mintlify.com/oss-program">
-<img
-  src="https://img.shields.io/badge/MINTLIFY-000000?style=for-the-badge&logo=mintlify&logoColor=18E299"
-  width="155"
-  alt="Mintlify"
-/>
-</a>
-<br />
-<b>
-Mintlify OSS<br />
-Program
-</b>
-<br />
-<sub>Documentation Infrastructure</sub>
-<br />
-<sub>
-<a href="https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">
-LinkedIn ↗
-</a>
-&nbsp;·&nbsp;
-<a href="https://x.com/Ashutosh_7x7/status/2082407449232040307?s=20">
-X ↗
-</a>
-</sub>
+<a href="https://www.mintlify.com/oss-program"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MINTLIFY-3B444B?style=for-the-badge&logo=mintlify&logoColor=18E299"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MINTLIFY-000000?style=for-the-badge&logo=mintlify&logoColor=18E299"><img src="https://img.shields.io/badge/MINTLIFY-000000?style=for-the-badge&logo=mintlify&logoColor=18E299" height="30" alt="Mintlify"></picture></a><br>
+<b>Mintlify OSS</b><br>
+<a href="https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">LinkedIn</a> · <a href="https://x.com/Ashutosh_7x7/status/2082407449232040307?s=20">X</a>
 </td>
 
 <td align="center" width="20%" valign="top">
-<a href="https://www.browserstack.com/open-source">
-<img
-  src="https://img.shields.io/badge/BROWSERSTACK-000000?style=for-the-badge&logo=browserstack&logoColor=FF6C37"
-  width="155"
-  alt="BrowserStack"
-/>
-</a>
-<br />
-<b>
-BrowserStack OSS<br />
-Program
-</b>
-<br />
-<sub>Cross-browser Testing</sub>
-<br />
-<sub>
-<a href="https://x.com/Ashutosh_7x7/status/2084669381951549949?s=20">
-Proof ↗
-</a>
-</sub>
+<a href="https://www.browserstack.com/open-source"><img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" width="145" height="30" alt="BrowserStack"></a><br>
+<b>BrowserStack OSS</b><br>
+<a href="https://x.com/Ashutosh_7x7/status/2084669381951549949?s=20">Proof</a>
 </td>
 
 </tr>
@@ -161,27 +72,27 @@ Proof ↗
 ### Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-161B22?style=flat&logo=cplusplus&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Google_Cloud-161B22?style=flat&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/OpenAI-161B22?style=flat&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
-  <img src="https://img.shields.io/badge/LangChain-161B22?style=flat&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/PyTorch-161B22?style=flat&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/C++-161B22?style=flat&logo=cplusplus&logoColor=00599C" alt="C++" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438" alt="Redis" />
+<img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Google_Cloud-161B22?style=flat&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/OpenAI-161B22?style=flat&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
+<img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
+<img src="https://img.shields.io/badge/LangChain-161B22?style=flat&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/PyTorch-161B22?style=flat&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@:Ashutoshx7" alt="Profile views" />
+<img src="https://count.getloli.com/@:Ashutoshx7" alt="Profile views" />
 </p>
