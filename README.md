@@ -43,15 +43,20 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 />
 </a>
 <br />
-<b>Vercel OSS Program</b>
+<b>
+Vercel OSS<br />
+Program
+</b>
+<br />
+<sub>Winter 2026 Cohort</sub>
 <br />
 <sub>
-Winter 2026 ·
 <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">
 Official Feature ↗
 </a>
 </sub>
 </td>
+
 
 <td align="center" width="20%" valign="top">
 <a href="https://claude.com/contact-sales/claude-for-oss">
@@ -62,10 +67,20 @@ Official Feature ↗
 />
 </a>
 <br />
-<b>Claude for Open Source</b>
+<b>
+Claude for Open<br />
+Source
+</b>
 <br />
 <sub>Claude Max 20x · 6 months</sub>
+<br />
+<sub>
+<a href="https://lnkd.in/p/g5SSriJz">
+Proof ↗
+</a>
+</sub>
 </td>
+
 
 <td align="center" width="20%" valign="top">
 <a href="https://open.sentry.io/">
@@ -76,10 +91,20 @@ Official Feature ↗
 />
 </a>
 <br />
-<b>Sentry Open Source</b>
+<b>
+Sentry Open<br />
+Source
+</b>
 <br />
-<sub>Monitoring & Observability</sub>
+<sub>Monitoring &amp; Observability</sub>
+<br />
+<sub>
+<a href="https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">
+Proof ↗
+</a>
+</sub>
 </td>
+
 
 <td align="center" width="20%" valign="top">
 <a href="https://www.mintlify.com/oss-program">
@@ -90,10 +115,24 @@ Official Feature ↗
 />
 </a>
 <br />
-<b>Mintlify OSS Program</b>
+<b>
+Mintlify OSS<br />
+Program
+</b>
 <br />
 <sub>Documentation Infrastructure</sub>
+<br />
+<sub>
+<a href="https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">
+LinkedIn ↗
+</a>
+&nbsp;·&nbsp;
+<a href="https://x.com/Ashutosh_7x7/status/2082407449232040307?s=20">
+X ↗
+</a>
+</sub>
 </td>
+
 
 <td align="center" width="20%" valign="top">
 <a href="https://www.browserstack.com/open-source">
@@ -104,9 +143,18 @@ Official Feature ↗
 />
 </a>
 <br />
-<b>BrowserStack OSS Program</b>
+<b>
+BrowserStack OSS<br />
+Program
+</b>
 <br />
 <sub>Cross-browser Testing</sub>
+<br />
+<sub>
+<a href="https://x.com/Ashutosh_7x7/status/2084669381951549949?s=20">
+Proof ↗
+</a>
+</sub>
 </td>
 
 </tr>
