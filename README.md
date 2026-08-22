@@ -35,31 +35,71 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 <tr>
 
 <td align="center" width="20%" valign="top">
-<a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui"><img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="30" alt="Vercel"></a><br>
+<table width="155" cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="28" alt="Vercel">
+</a>
+</td>
+</tr>
+</table>
 <b>Vercel OSS</b><br>
 <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">Official Website</a>
 </td>
 
 <td align="center" width="20%" valign="top">
-<a href="https://claude.com/contact-sales/claude-for-oss"><img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=FFF8F3" height="30" alt="Claude"></a><br>
+<table width="155" cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://claude.com/contact-sales/claude-for-oss">
+<img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=FFF8F3" height="28" alt="Claude">
+</a>
+</td>
+</tr>
+</table>
 <b>Claude for OSS</b><br>
 <a href="https://lnkd.in/p/g5SSriJz">Proof</a>
 </td>
 
 <td align="center" width="20%" valign="top">
-<a href="https://open.sentry.io/"><img src="https://img.shields.io/badge/SENTRY-362D59?style=for-the-badge&logo=sentry&logoColor=FFFFFF" height="30" alt="Sentry"></a><br>
+<table width="155" cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://open.sentry.io/">
+<img src="https://img.shields.io/badge/SENTRY-362D59?style=for-the-badge&logo=sentry&logoColor=FFFFFF" height="28" alt="Sentry">
+</a>
+</td>
+</tr>
+</table>
 <b>Sentry for OSS</b><br>
 <a href="https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">Proof</a>
 </td>
 
 <td align="center" width="20%" valign="top">
-<a href="https://www.mintlify.com/oss-program"><img src="https://img.shields.io/badge/MINTLIFY-0F766E?style=for-the-badge&logo=mintlify&logoColor=E6FFF7" height="30" alt="Mintlify"></a><br>
+<table width="155" cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://www.mintlify.com/oss-program">
+<img src="https://img.shields.io/badge/MINTLIFY-0F766E?style=for-the-badge&logo=mintlify&logoColor=E6FFF7" height="28" alt="Mintlify">
+</a>
+</td>
+</tr>
+</table>
 <b>Mintlify OSS</b><br>
 <a href="https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">LinkedIn</a> · <a href="https://x.com/Ashutosh_7x7/status/2082407449232040307?s=20">X</a>
 </td>
 
 <td align="center" width="20%" valign="top">
-<a href="https://www.browserstack.com/open-source"><table cellpadding="2" cellspacing="0" border="0"><tr><td bgcolor="#F6F8FA" align="center"><img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" width="145" height="30" alt="BrowserStack"></td></tr></table></a>
+<table width="155" cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://www.browserstack.com/open-source">
+<img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" width="145" height="28" alt="BrowserStack">
+</a>
+</td>
+</tr>
+</table>
 <b>BrowserStack OSS</b><br>
 <a href="https://x.com/Ashutosh_7x7/status/2084669381951549949?s=20">Proof</a>
 </td>
