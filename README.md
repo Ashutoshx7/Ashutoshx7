@@ -37,95 +37,61 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 <td align="center" width="20%" valign="top">
 <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">
 <img
-src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"
-height="40"
+src="https://img.shields.io/badge/VERCEL-050505?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
+height="38"
 alt="Vercel"
 />
 </a>
 <br />
-<b>Vercel OSS Program</b> · <sub>Winter '26</sub>
-<br />
-<sub>
-<a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">
-Official Website ↗
-</a>
-</sub>
+<b>Vercel OSS Program</b>
 </td>
 
 <td align="center" width="20%" valign="top">
 <a href="https://claude.com/contact-sales/claude-for-oss">
 <img
-src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white"
-height="40"
+src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=FFF8F3"
+height="38"
 alt="Claude"
 />
 </a>
 <br />
-<b>Claude for OSS</b> · <sub>Max 20x · 6mo</sub>
-<br />
-<sub>
-<a href="https://lnkd.in/p/g5SSriJz">
-Proof ↗
-</a>
-</sub>
+<b>Claude for OSS</b>
 </td>
 
 <td align="center" width="20%" valign="top">
 <a href="https://open.sentry.io/">
 <img
-src="https://img.shields.io/badge/SENTRY-362D59?style=for-the-badge&logo=sentry&logoColor=white"
-height="40"
+src="https://img.shields.io/badge/SENTRY-302B45?style=for-the-badge&logo=sentry&logoColor=E9E4FF"
+height="38"
 alt="Sentry"
 />
 </a>
 <br />
-<b>Sentry Open Source</b> · <sub>Observability</sub>
-<br />
-<sub>
-<a href="https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">
-Proof ↗
-</a>
-</sub>
+<b>Sentry Open Source</b>
 </td>
 
 <td align="center" width="20%" valign="top">
 <a href="https://www.mintlify.com/oss-program">
 <img
-src="https://img.shields.io/badge/MINTLIFY-000000?style=for-the-badge&logo=mintlify&logoColor=18E299"
-height="40"
+src="https://img.shields.io/badge/MINTLIFY-050505?style=for-the-badge&logo=mintlify&logoColor=18E299"
+height="38"
 alt="Mintlify"
 />
 </a>
 <br />
-<b>Mintlify OSS Program</b> · <sub>Documentation</sub>
-<br />
-<sub>
-<a href="https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">
-LinkedIn ↗
-</a>
-&nbsp;·&nbsp;
-<a href="https://x.com/Ashutosh_7x7/status/2082407449232040307?s=20">
-X ↗
-</a>
-</sub>
+<b>Mintlify OSS Program</b>
 </td>
 
 <td align="center" width="20%" valign="top">
 <a href="https://www.browserstack.com/open-source">
 <img
-src="https://img.shields.io/badge/BROWSERSTACK-000000?style=for-the-badge&logo=browserstack&logoColor=FF6C37"
-height="40"
+src="https://img.shields.io/badge/BROWSERSTACK-050505?style=for-the-badge&logo=browserstack&logoColor=F5A623"
+height="38"
 alt="BrowserStack"
 />
 </a>
 <br />
-<b>BrowserStack OSS</b> · <sub>Testing</sub>
-<br />
-<sub>
-<a href="https://x.com/Ashutosh_7x7/status/2084669381951549949?s=20">
-Proof ↗
-</a>
-</sub>
+<b>BrowserStack OSS</b>
 </td>
 
 </tr>
