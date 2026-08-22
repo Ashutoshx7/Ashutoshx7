@@ -31,12 +31,16 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 
 **Supported by some of the most respected developer programs in open source.**
 
-<table width="100%" cellpadding="7" cellspacing="0">
+<table width="100%" cellpadding="4" cellspacing="0">
 <tr>
 
 <td align="center" width="20%" valign="top">
 <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">
-<img src="https://raw.githubusercontent.com/Ashutoshx7/Ashutoshx7/main/badges/vercel.svg" width="100%" alt="Vercel" />
+<img
+src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"
+height="40"
+alt="Vercel"
+/>
 </a>
 <br />
 <b>Vercel OSS Program</b> · <sub>Winter '26</sub>
@@ -50,10 +54,14 @@ Official Website ↗
 
 <td align="center" width="20%" valign="top">
 <a href="https://claude.com/contact-sales/claude-for-oss">
-<img src="https://raw.githubusercontent.com/Ashutoshx7/Ashutoshx7/main/badges/claude.svg" width="100%" alt="Claude" />
+<img
+src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white"
+height="40"
+alt="Claude"
+/>
 </a>
 <br />
-<b>Claude for OSS</b> · <sub>Max 20x · 6 months</sub>
+<b>Claude for OSS</b> · <sub>Max 20x · 6mo</sub>
 <br />
 <sub>
 <a href="https://lnkd.in/p/g5SSriJz">
@@ -64,7 +72,11 @@ Proof ↗
 
 <td align="center" width="20%" valign="top">
 <a href="https://open.sentry.io/">
-<img src="https://raw.githubusercontent.com/Ashutoshx7/Ashutoshx7/main/badges/sentry.svg" width="100%" alt="Sentry" />
+<img
+src="https://img.shields.io/badge/SENTRY-362D59?style=for-the-badge&logo=sentry&logoColor=white"
+height="40"
+alt="Sentry"
+/>
 </a>
 <br />
 <b>Sentry Open Source</b> · <sub>Observability</sub>
@@ -78,7 +90,11 @@ Proof ↗
 
 <td align="center" width="20%" valign="top">
 <a href="https://www.mintlify.com/oss-program">
-<img src="https://raw.githubusercontent.com/Ashutoshx7/Ashutoshx7/main/badges/mintlify.svg" width="100%" alt="Mintlify" />
+<img
+src="https://img.shields.io/badge/MINTLIFY-000000?style=for-the-badge&logo=mintlify&logoColor=18E299"
+height="40"
+alt="Mintlify"
+/>
 </a>
 <br />
 <b>Mintlify OSS Program</b> · <sub>Documentation</sub>
@@ -96,7 +112,11 @@ X ↗
 
 <td align="center" width="20%" valign="top">
 <a href="https://www.browserstack.com/open-source">
-<img src="https://raw.githubusercontent.com/Ashutoshx7/Ashutoshx7/main/badges/browserstack.svg" width="100%" alt="BrowserStack" />
+<img
+src="https://img.shields.io/badge/BROWSERSTACK-000000?style=for-the-badge&logo=browserstack&logoColor=FF6C37"
+height="40"
+alt="BrowserStack"
+/>
 </a>
 <br />
 <b>BrowserStack OSS</b> · <sub>Testing</sub>
@@ -116,27 +136,27 @@ Proof ↗
 ### Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-161B22?style=flat&logo=cplusplus&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Google_Cloud-161B22?style=flat&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/OpenAI-161B22?style=flat&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
-  <img src="https://img.shields.io/badge/LangChain-161B22?style=flat&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/PyTorch-161B22?style=flat&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/C++-161B22?style=flat&logo=cplusplus&logoColor=00599C" alt="C++" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438" alt="Redis" />
+<img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Google_Cloud-161B22?style=flat&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/OpenAI-161B22?style=flat&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
+<img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
+<img src="https://img.shields.io/badge/LangChain-161B22?style=flat&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/PyTorch-161B22?style=flat&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@:Ashutoshx7" alt="Profile views" />
+<img src="https://count.getloli.com/@:Ashutoshx7" alt="Profile views" />
 </p>
