@@ -185,4 +185,3 @@ Proof ↗
 <p align="center">
   <img src="https://count.getloli.com/@:Ashutoshx7" alt="Profile views" />
 </p>
- regenret backed by  stuff those logo all of them size would be same and also in exact line ok 
