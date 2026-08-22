@@ -25,65 +25,88 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 - **GSoC 2025 · [KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** — GUI tooling for teacher-focused dataset creation
 - **C4GT 2025 · [Beckn](https://github.com/beckn)** — AI voice generation and zero-shot voice cloning
 
-### Backed By
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<table width="100%">
+<div align="center">
+
+## Backed By
+
+**Supported by some of the most respected developer programs in open source.**
+
+<table>
 <tr>
-<td align="center" width="20%">
-<a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengenceui">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-</a>
-<br><br>
-<strong>Open Source Program</strong>
-<br>
-<sub>Winter 2026 Cohort</sub>
+
+<td align="center" width="165">
+  <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">
+    <img
+      src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      width="145"
+      alt="Vercel"
+    />
+  </a><br />
+  <b>Vercel OSS Program</b><br />
+  <sub>
+    Winter 2026 ·
+    <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">
+      Official Feature ↗
+    </a>
+  </sub>
 </td>
 
-<td align="center" width="20%">
-<a href="https://claude.com/contact-sales/claude-for-oss">
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
-</a>
-<br><br>
-<strong>Claude for Open Source</strong>
-<br>
-<sub>Claude Max 20x · 6 months</sub>
+<td align="center" width="165">
+  <a href="https://claude.com/contact-sales/claude-for-oss">
+    <img
+      src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white"
+      width="145"
+      alt="Claude"
+    />
+  </a><br />
+  <b>Claude for Open Source</b><br />
+  <sub>Claude Max 20x · 6 months</sub>
 </td>
 
-<td align="center" width="20%">
-<a href="https://open.sentry.io/">
-<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry">
-</a>
-<br><br>
-<strong>Sentry Open Source</strong>
-<br>
-<sub>Monitoring & observability</sub>
+<td align="center" width="165">
+  <a href="https://open.sentry.io/">
+    <img
+      src="https://img.shields.io/badge/SENTRY-362D59?style=for-the-badge&logo=sentry&logoColor=white"
+      width="145"
+      alt="Sentry"
+    />
+  </a><br />
+  <b>Sentry Open Source</b><br />
+  <sub>Monitoring & Observability</sub>
 </td>
 
-<td align="center" width="20%">
-<a href="https://www.mintlify.com/oss-program">
-<img src="https://img.shields.io/badge/Mintlify-0D9373?style=for-the-badge&logo=mintlify&logoColor=white" alt="Mintlify">
-</a>
-<br><br>
-<strong>OSS Program</strong>
-<br>
-<sub>Documentation infrastructure</sub>
+<td align="center" width="165">
+  <a href="https://www.mintlify.com/oss-program">
+    <img
+      src="https://img.shields.io/badge/MINTLIFY-0D9373?style=for-the-badge&logo=mintlify&logoColor=white"
+      width="145"
+      alt="Mintlify"
+    />
+  </a><br />
+  <b>Mintlify OSS Program</b><br />
+  <sub>Documentation Infrastructure</sub>
 </td>
 
-<td align="center" width="20%">
-<a href="https://www.browserstack.com/open-source">
-<img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" alt="BrowserStack">
-</a>
-<br><br>
-<strong>Open Source Program</strong>
-<br>
-<sub>Cross-browser testing</sub>
+<td align="center" width="165">
+  <a href="https://www.browserstack.com/open-source">
+    <img
+      src="https://img.shields.io/badge/BROWSERSTACK-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white"
+      width="145"
+      alt="BrowserStack"
+    />
+  </a><br />
+  <b>BrowserStack OSS Program</b><br />
+  <sub>Cross-browser Testing</sub>
 </td>
+
 </tr>
 </table>
 
-<sub>
-Supported by developer platforms helping me <strong>build, test, document, monitor, and maintain</strong> open-source software.
-</sub>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### Tech Stack
 
