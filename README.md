@@ -59,7 +59,7 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 </td>
 
 <td align="center" width="20%" valign="top">
-<a href="https://www.browserstack.com/open-source"><img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" width="145" height="30" alt="BrowserStack"></a><br>
+<a href="https://www.browserstack.com/open-source"><picture><source media="(prefers-color-scheme: dark)" srcset="https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780"><source media="(prefers-color-scheme: light)" srcset="https://live.browserstack.com/images/opensource/browserstack-logo.svg"><img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" height="30" alt="BrowserStack"></picture></a><br>
 <b>BrowserStack OSS</b><br>
 <a href="https://x.com/Ashutosh_7x7/status/2084669381951549949?s=20">Proof</a>
 </td>
