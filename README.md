@@ -35,7 +35,7 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 <tr>
 
 <td align="center" width="20%" valign="top">
-<a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VERCEL-484F58?style=for-the-badge&logo=vercel&logoColor=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF"><img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="30" alt="Vercel"></picture></a><br>
+<a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui"><img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="30" alt="Vercel"></a><br>
 <b>Vercel OSS</b><br>
 <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">Official Website</a>
 </td>
@@ -53,7 +53,7 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 </td>
 
 <td align="center" width="20%" valign="top">
-<a href="https://www.mintlify.com/oss-program"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MINTLIFY-3B444B?style=for-the-badge&logo=mintlify&logoColor=18E299"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MINTLIFY-000000?style=for-the-badge&logo=mintlify&logoColor=18E299"><img src="https://img.shields.io/badge/MINTLIFY-000000?style=for-the-badge&logo=mintlify&logoColor=18E299" height="30" alt="Mintlify"></picture></a><br>
+<a href="https://www.mintlify.com/oss-program"><img src="https://img.shields.io/badge/MINTLIFY-18E299?style=for-the-badge&logo=mintlify&logoColor=000000" height="30" alt="Mintlify"></a><br>
 <b>Mintlify OSS</b><br>
 <a href="https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">LinkedIn</a> · <a href="https://x.com/Ashutosh_7x7/status/2082407449232040307?s=20">X</a>
 </td>
