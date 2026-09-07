@@ -34,8 +34,8 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 <table width="100%" cellpadding="3" cellspacing="0">
 <tr>
 
-<td align="center" width="20%" valign="top">
-<table width="155" cellpadding="3" cellspacing="0" border="0">
+<td align="center" width="16.66%" valign="top">
+<table width="120" cellpadding="3" cellspacing="0" border="0">
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">
@@ -48,8 +48,8 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">Official Website</a>
 </td>
 
-<td align="center" width="20%" valign="top">
-<table width="155" cellpadding="3" cellspacing="0" border="0">
+<td align="center" width="16.66%" valign="top">
+<table width="120" cellpadding="3" cellspacing="0" border="0">
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://claude.com/contact-sales/claude-for-oss">
@@ -62,8 +62,8 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 <a href="https://lnkd.in/p/g5SSriJz">Proof</a>
 </td>
 
-<td align="center" width="20%" valign="top">
-<table width="155" cellpadding="3" cellspacing="0" border="0">
+<td align="center" width="16.66%" valign="top">
+<table width="120" cellpadding="3" cellspacing="0" border="0">
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://open.sentry.io/">
@@ -76,8 +76,8 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 <a href="https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">Proof</a>
 </td>
 
-<td align="center" width="20%" valign="top">
-<table width="155" cellpadding="3" cellspacing="0" border="0">
+<td align="center" width="16.66%" valign="top">
+<table width="120" cellpadding="3" cellspacing="0" border="0">
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://www.mintlify.com/oss-program">
@@ -87,15 +87,16 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 </tr>
 </table>
 <b>Mintlify OSS</b><br>
-<a href="https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">LinkedIn</a> · <a href="https://x.com/Ashutosh_7x7/status/2082407449232040307?s=20">X</a>
+<a href="https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU">LinkedIn</a> ·
+<a href="https://x.com/Ashutosh_7x7/status/2082407449232040307?s=20">X</a>
 </td>
 
-<td align="center" width="20%" valign="top">
-<table width="155" cellpadding="3" cellspacing="0" border="0">
+<td align="center" width="16.66%" valign="top">
+<table width="120" cellpadding="3" cellspacing="0" border="0">
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://www.browserstack.com/open-source">
-<img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" width="145" height="28" alt="BrowserStack">
+<img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" width="110" height="28" alt="BrowserStack">
 </a>
 </td>
 </tr>
@@ -104,8 +105,8 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 <a href="https://x.com/Ashutosh_7x7/status/2084669381951549949?s=20">Proof</a>
 </td>
 
-<td align="center" width="20%" valign="top">
-<table width="155" cellpadding="3" cellspacing="0" border="0">
+<td align="center" width="16.66%" valign="top">
+<table width="120" cellpadding="3" cellspacing="0" border="0">
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://www.sarvam.ai/startup-program">
