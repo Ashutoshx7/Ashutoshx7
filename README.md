@@ -31,16 +31,16 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 
 **Supported by some of the most respected developer programs in open source.**
 
-<table width="100%" cellpadding="1" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 
-<td align="center" width="16%" valign="top">
+<td align="center" width="16.6%" valign="top">
 
-<table width="105" cellpadding="2" cellspacing="0" border="0">
+<table width="100" cellpadding="2" cellspacing="0" border="0">
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui">
-<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="24" alt="Vercel">
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="22" alt="Vercel">
 </a>
 </td>
 </tr>
@@ -54,13 +54,13 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 </td>
 
 
-<td align="center" width="16%" valign="top">
+<td align="center" width="16.6%" valign="top">
 
-<table width="105" cellpadding="2" cellspacing="0" border="0">
+<table width="100" cellpadding="2" cellspacing="0" border="0">
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://claude.com/contact-sales/claude-for-oss">
-<img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=FFF8F3" height="24" alt="Claude">
+<img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=FFF8F3" height="22" alt="Claude">
 </a>
 </td>
 </tr>
@@ -74,13 +74,13 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 </td>
 
 
-<td align="center" width="16%" valign="top">
+<td align="center" width="16.6%" valign="top">
 
-<table width="105" cellpadding="2" cellspacing="0" border="0">
+<table width="100" cellpadding="2" cellspacing="0" border="0">
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://open.sentry.io/">
-<img src="https://img.shields.io/badge/SENTRY-362D59?style=for-the-badge&logo=sentry&logoColor=FFFFFF" height="24" alt="Sentry">
+<img src="https://img.shields.io/badge/SENTRY-362D59?style=for-the-badge&logo=sentry&logoColor=FFFFFF" height="22" alt="Sentry">
 </a>
 </td>
 </tr>
@@ -94,13 +94,13 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 </td>
 
 
-<td align="center" width="16%" valign="top">
+<td align="center" width="16.6%" valign="top">
 
-<table width="105" cellpadding="2" cellspacing="0" border="0">
+<table width="100" cellpadding="2" cellspacing="0" border="0">
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://www.mintlify.com/oss-program">
-<img src="https://img.shields.io/badge/MINTLIFY-0F766E?style=for-the-badge&logo=mintlify&logoColor=E6FFF7" height="24" alt="Mintlify">
+<img src="https://img.shields.io/badge/MINTLIFY-0F766E?style=for-the-badge&logo=mintlify&logoColor=E6FFF7" height="22" alt="Mintlify">
 </a>
 </td>
 </tr>
@@ -115,13 +115,13 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 </td>
 
 
-<td align="center" width="16%" valign="top">
+<td align="center" width="16.6%" valign="top">
 
-<table width="105" cellpadding="2" cellspacing="0" border="0">
+<table width="100" cellpadding="2" cellspacing="0" border="0">
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://www.browserstack.com/open-source">
-<img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" width="95" height="24" alt="BrowserStack">
+<img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" width="90" height="22" alt="BrowserStack">
 </a>
 </td>
 </tr>
@@ -135,13 +135,13 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 </td>
 
 
-<td align="center" width="16%" valign="top">
+<td align="center" width="16.6%" valign="top">
 
-<table width="105" cellpadding="2" cellspacing="0" border="0">
+<table width="100" cellpadding="2" cellspacing="0" border="0">
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://www.sarvam.ai/startup-program">
-<img src="https://img.shields.io/badge/SARVAM_AI-111827?style=for-the-badge&logoColor=FFFFFF" height="24" alt="Sarvam AI">
+<img src="https://img.shields.io/badge/SARVAM_AI-111827?style=for-the-badge&logoColor=FFFFFF" height="22" alt="Sarvam AI">
 </a>
 </td>
 </tr>
