@@ -104,6 +104,20 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 <a href="https://x.com/Ashutosh_7x7/status/2084669381951549949?s=20">Proof</a>
 </td>
 
+<td align="center" width="20%" valign="top">
+<table width="155" cellpadding="3" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#F6F8FA" align="center">
+<a href="https://www.sarvam.ai/startup-program">
+<img src="https://img.shields.io/badge/SARVAM_AI-111827?style=for-the-badge&logoColor=FFFFFF" height="28" alt="Sarvam AI">
+</a>
+</td>
+</tr>
+</table>
+<b>Sarvam Startup Program</b><br>
+<a href="https://www.sarvam.ai/startup-program">Official Website</a>
+</td>
+
 </tr>
 </table>
 
