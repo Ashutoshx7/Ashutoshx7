@@ -19,7 +19,7 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 - Creator of **[VengeanceUI](https://www.vengenceui.com/)** — an animated component library with **40K+ monthly visitors, 500K+ monthly page views, and 1,250+ GitHub stars**
 - **Sugar Labs Member & Code Owner** for **[Music Blocks](https://github.com/sugarlabs/musicblocks)**, maintaining core areas and reviewing community contributions
 - **[Caracal](https://github.com/Garudex-Labs/caracal) Member & Core Contributor**, contributing to the architecture and security infrastructure of an AI-agent platform
-- Authored **[100+ merged open-source PRs](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across **12+ organizations**, including Sugar Labs, KDE, Joplin, kgateway, FOSSology, and FOSSASIA
+- Authored **[150+ merged open-source PRs](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across **12+ organizations**, including Sugar Labs, KDE, Joplin, kgateway, FOSSology, and FOSSASIA
 - **GSoC 2026 · [Sugar Labs](https://github.com/sugarlabs)** — building **Sugar Activity On Demand**
 - **LFX Mentorship 2026 · [Caracal](https://github.com/Garudex-Labs/caracal)** — authorization, delegation, and policy enforcement for AI agents
 - **GSoC 2025 · [KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** — GUI tooling for teacher-focused dataset creation
