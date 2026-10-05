@@ -22,8 +22,7 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 - Authored **[150+ merged open-source PRs](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across **12+ organizations**, including Sugar Labs, KDE, Joplin, kgateway, FOSSology, and FOSSASIA
 - **GSoC 2026 · [Sugar Labs](https://github.com/sugarlabs)** — building **Sugar Activity On Demand**
 - **LFX Mentorship 2026 · [Caracal](https://github.com/Garudex-Labs/caracal)** — authorization, delegation, and policy enforcement for AI agents
-- **GSoC 2025 · [KDE](https://github.com/kde) / [GCompris](https://github.com/gcompris/GCompris-qt)** — GUI tooling for teacher-focused dataset creation
-- **C4GT 2025 · [Beckn](https://github.com/beckn)** — AI voice generation and zero-shot voice cloning
+
 
 <div align="center">
 
