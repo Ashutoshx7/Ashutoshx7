@@ -24,18 +24,41 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 - **GSoC 2026 · [Sugar Labs](https://github.com/sugarlabs)** — building **Sugar Activity On Demand**
 - **LFX Mentorship 2026 · [Caracal](https://github.com/Garudex-Labs/caracal)** — authorization, delegation, and policy enforcement for AI agents
 
+<img align="right" width="330" src="https://count.getloli.com/@:Ashutoshx7" alt="Profile views" />
+
 ### Backed By
 
 **Supported by some of the most respected developer programs in open source.**
 
 - **[Vercel OSS](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui)** — Winter 2026 Cohort
 - **[Claude for OSS](https://claude.com/contact-sales/claude-for-oss)** — [Proof](https://lnkd.in/p/g5SSriJz)
-- **[Sentry for OSS](https://open.sentry.io/)** — [Proof](https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU)
-- **[Mintlify OSS](https://www.mintlify.com/oss-program)** — [LinkedIn](https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_) · [X](https://x.com/Ashutosh_7x7/status/2082407449232040307?s=20)
-- **[BrowserStack OSS](https://www.browserstack.com/open-source)** — [Proof](https://x.com/Ashutosh_7x7/status/2084669381951549949?s=20)
+- **[Sentry for OSS](https://open.sentry.io/)** — [Proof](https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof)
+- **[Mintlify OSS](https://www.mintlify.com/oss-program)** — [LinkedIn](https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_) · [X](https://x.com/Ashutosh_7x7/status/2082407449232040307)
+- **[BrowserStack OSS](https://www.browserstack.com/open-source)** — [Proof](https://x.com/Ashutosh_7x7/status/2084669381951549949)
 - **[Sarvam AI](https://www.sarvam.ai/startup-program)** — Startup Program
 
+<br clear="all">
 
-<p align="center">
-  <img src="https://count.getloli.com/@:Ashutoshx7" alt="Profile views" />
+### Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/C++-161B22?style=flat&logo=cplusplus&logoColor=00599C" alt="C++" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438" alt="Redis" />
+<img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Google_Cloud-161B22?style=flat&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/OpenAI-161B22?style=flat&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
+<img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
+<img src="https://img.shields.io/badge/LangChain-161B22?style=flat&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging_Face-161B22?style=flat&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/PyTorch-161B22?style=flat&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
 </p>
