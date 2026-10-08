@@ -30,7 +30,7 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 
 Selected for developer, open-source, and startup programs supporting my engineering work.
 
-- **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui)** — Selected for the **Winter 2026 cohort** with VengeanceUI.
+- **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui)** — Selected for the **Winter 2026 cohort**.
 - **[Claude for Open Source](https://claude.com/contact-sales/claude-for-oss)** — Accepted into Anthropic's program supporting open-source maintainers. [Proof](https://lnkd.in/p/g5SSriJz)
 - **[Sentry Open Source Program](https://open.sentry.io/)** — Selected for Sentry's open-source developer program. [Proof](https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof)
 - **[Mintlify Open Source Program](https://www.mintlify.com/oss-program)** — Accepted into Mintlify's program for open-source projects. [LinkedIn](https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_) · [X](https://x.com/Ashutosh_7x7/status/2082407449232040307)
