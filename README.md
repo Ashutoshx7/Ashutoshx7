@@ -28,14 +28,14 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 
 ### Backed By
 
-**Supported by some of the most respected developer programs in open source.**
+Selected for developer, open-source, and startup programs supporting my engineering work.
 
-- **[Vercel OSS](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui)** — Winter 2026 Cohort
-- **[Claude for OSS](https://claude.com/contact-sales/claude-for-oss)** — [Proof](https://lnkd.in/p/g5SSriJz)
-- **[Sentry for OSS](https://open.sentry.io/)** — [Proof](https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof)
-- **[Mintlify OSS](https://www.mintlify.com/oss-program)** — [LinkedIn](https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_) · [X](https://x.com/Ashutosh_7x7/status/2082407449232040307)
-- **[BrowserStack OSS](https://www.browserstack.com/open-source)** — [Proof](https://x.com/Ashutosh_7x7/status/2084669381951549949)
-- **[Sarvam AI](https://www.sarvam.ai/startup-program)** — Startup Program
+- **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui)** — Selected for the **Winter 2026 cohort** with VengeanceUI.
+- **[Claude for Open Source](https://claude.com/contact-sales/claude-for-oss)** — Accepted into Anthropic's program supporting open-source maintainers. [Proof](https://lnkd.in/p/g5SSriJz)
+- **[Sentry Open Source Program](https://open.sentry.io/)** — Selected for Sentry's open-source developer program. [Proof](https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof)
+- **[Mintlify Open Source Program](https://www.mintlify.com/oss-program)** — Accepted into Mintlify's program for open-source projects. [LinkedIn](https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_) · [X](https://x.com/Ashutosh_7x7/status/2082407449232040307)
+- **[BrowserStack Open Source Program](https://www.browserstack.com/open-source)** — Accepted for BrowserStack's open-source support. [Proof](https://x.com/Ashutosh_7x7/status/2084669381951549949)
+- **[Sarvam AI Startup Program](https://www.sarvam.ai/startup-program)** — Selected for Sarvam AI's startup program.
 
 <br clear="all">
 
