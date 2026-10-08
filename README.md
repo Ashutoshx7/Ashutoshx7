@@ -26,12 +26,16 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 
 ### Backed By
 
-Supported by developer and open-source programs.
+**Supported by some of the most respected developer programs in open source.**
 
-- **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui)** — Winter 2026 Cohort
-- **[Claude for Open Source](https://claude.com/contact-sales/claude-for-oss)** — Anthropic · [Proof](https://lnkd.in/p/g5SSriJz)
-- **[Sentry for Open Source](https://open.sentry.io/)** — [Proof](https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof)
-- **[Mintlify Open Source Program](https://www.mintlify.com/oss-program)** — [LinkedIn](https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_) · [X](https://x.com/Ashutosh_7x7/status/2082407449232040307)
-- **[BrowserStack Open Source Program](https://www.browserstack.com/open-source)** — [Proof](https://x.com/Ashutosh_7x7/status/2084669381951549949)
-- **[Sarvam AI Startup Program](https://www.sarvam.ai/startup-program)**
+- **[Vercel OSS](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui)** — Winter 2026 Cohort
+- **[Claude for OSS](https://claude.com/contact-sales/claude-for-oss)** — [Proof](https://lnkd.in/p/g5SSriJz)
+- **[Sentry for OSS](https://open.sentry.io/)** — [Proof](https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLIxwEBwN75PG6jNkSpA3hPtCpFx16W3tU)
+- **[Mintlify OSS](https://www.mintlify.com/oss-program)** — [LinkedIn](https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_) · [X](https://x.com/Ashutosh_7x7/status/2082407449232040307?s=20)
+- **[BrowserStack OSS](https://www.browserstack.com/open-source)** — [Proof](https://x.com/Ashutosh_7x7/status/2084669381951549949?s=20)
+- **[Sarvam AI](https://www.sarvam.ai/startup-program)** — Startup Program
 
+
+<p align="center">
+  <img src="https://count.getloli.com/@:Ashutoshx7" alt="Profile views" />
+</p>
