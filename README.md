@@ -36,6 +36,3 @@ Selected for developer, open-source, and startup programs supporting my engineer
 - **[Mintlify Open Source Program](https://www.mintlify.com/oss-program)** — Accepted into Mintlify's program for open-source projects. [LinkedIn](https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_) · [X](https://x.com/Ashutosh_7x7/status/2082407449232040307)
 - **[BrowserStack Open Source Program](https://www.browserstack.com/open-source)** — Accepted for BrowserStack's open-source support. [Proof](https://x.com/Ashutosh_7x7/status/2084669381951549949)
 - **[Sarvam AI Startup Program](https://www.sarvam.ai/startup-program)** — Selected for Sarvam AI's startup program.
-
-<br clear="all">
-
