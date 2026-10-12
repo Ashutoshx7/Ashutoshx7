@@ -27,8 +27,8 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 
 <img align="right" width="270" src="https://count.getloli.com/@:Ashutoshx7" alt="Profile views" />
 
-- **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui)** · Selected for the **Winter 2026 cohort** with VengeanceUI
-- **[Sarvam AI Startup Program](https://www.sarvam.ai/startup-program)** · Selected for Sarvam AI's startup program · [LinkedIn](https://lnkd.in/p/g5EAup6w)
+- **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui)** · Selected for the **Winter 2026 cohort** 
+- **[Sarvam AI Startup Program](https://www.sarvam.ai/startup-program)** · Selected for Sarvam  startup program · [LinkedIn](https://lnkd.in/p/g5EAup6w)
 - **[Claude for Open Source](https://claude.com/contact-sales/claude-for-oss)** · Accepted into Anthropic's OSS program · [LinkedIn](https://lnkd.in/p/g5SSriJz)
 - **[Sentry Open Source Program](https://open.sentry.io/)** · Selected for open-source support · [LinkedIn](https://www.linkedin.com/posts/ashutoshx7_thanx-sentry-activity-7490443221857345536-YQof)
 - **[Mintlify Open Source Program](https://www.mintlify.com/oss-program)** · Accepted for OSS support · [LinkedIn](https://www.linkedin.com/posts/ashutoshx7_vengeanceui-mintlify-vengeanceuicom-activity-7488475579240026112-LE2_) · [X](https://x.com/Ashutosh_7x7/status/2082407449232040307)
