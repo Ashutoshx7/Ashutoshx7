@@ -21,10 +21,8 @@ I build **AI-native developer tools, agentic systems, open-source infrastructure
 ▸ **LFX Mentorship 2026** · **[Caracal](https://github.com/Garudex-Labs/caracal)** · AI-agent authorization, delegation, and policy enforcement<br>
 ▸ **Google Summer of Code 2025** · **[KDE GCompris](https://github.com/gcompris/GCompris-qt)** · GUI tooling for teachers<br>
 ▸ **C4GT 2025** · **Beckn** · AI voice generation and zero-shot voice cloning<br>
-▸ **[150+ merged pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across **12+ organizations**, including KDE, Joplin, kgateway, FOSSology, and FOSSASIA
-
+▸ **[150+ merged pull requests](https://github.com/search?q=author%3AAshutoshx7+is%3Apr+is%3Amerged&type=pullrequests)** across **12+ organizations**, including KDE, Joplin, kgateway, FOSSology, and FOSSASIA<br>
 <img align="right" width="270" src="https://count.getloli.com/@:Ashutoshx7" alt="Profile views" />
-
 ▸ **[Vercel Open Source Program](https://vercel.com/blog/vercel-open-source-program-winter-2026-cohort#vengeanceui)** · VengeanceUI selected for the **Winter 2026 cohort**<br>
 ▸ **[Sarvam AI Startup Program](https://www.sarvam.ai/startup-program)** · [LinkedIn](https://lnkd.in/p/g5EAup6w)<br>
 ▸ **[Claude for Open Source](https://claude.com/contact-sales/claude-for-oss)** · [LinkedIn](https://lnkd.in/p/g5SSriJz)<br>
