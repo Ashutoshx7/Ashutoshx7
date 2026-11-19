@@ -12,7 +12,7 @@
 </tr>
 </table>
 
-I build **AI-native developer tools, agentic systems, open-source infrastructure, and creative engineering products.**
+I build **AI-native developer tools, agentic systems, and creative engineering products.**
 
 ▸ **Creator & Maintainer** · **[VengeanceUI](https://www.vengenceui.com/)** · **1,250+ stars**, **40K+ monthly visitors**, **500K+ monthly views**<br>
 ▸ **Member & Code Owner** · **[Sugar Labs](https://github.com/sugarlabs)** · [Music Blocks](https://github.com/sugarlabs/musicblocks)<br>
